@@ -11,7 +11,7 @@ OpenLdap:
   AdminPassword: "Passw0rd!"
   SeedUsers: 
     usergroup: "cp4iusers"
-    userlist: "user1,user2,user3,user4"
+    userlist: "ds,lak,abhi,tushar"
     initialPassword: "cp4iForAll"
 
 PhpLdapAdmin:
